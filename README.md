@@ -2,7 +2,7 @@
 
 LIMOCE is a lightweight framework for performing seamless live migration of containers in resource-constrained edge computing environments. It provides robust container migration capabilities while maintaining minimal downtime and resource usage.
 
-Baed on: [Original Paper](https://link.springer.com/article/10.1007/s42979-023-01871-5)
+Based on: [Original Paper](https://link.springer.com/article/10.1007/s42979-023-01871-5)
 
 ## Features
 
